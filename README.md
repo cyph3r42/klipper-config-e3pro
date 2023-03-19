@@ -3,11 +3,11 @@
 This is my current klipper config for the Creality Ender 3 Pro
 
 I have the following mods:
-SKR Pico V1
-Dual Z
-BL Touch
-Micro Swiss Direct Drive
-Tasmota power switch
+- SKR Pico V1
+- Dual Z
+- BL Touch
+- Micro Swiss Direct Drive
+- Tasmota flashed WiFi power switch
 
 The macros are not original work.  I've collected them from a variety of sources and have performed some minor modifications 
 
